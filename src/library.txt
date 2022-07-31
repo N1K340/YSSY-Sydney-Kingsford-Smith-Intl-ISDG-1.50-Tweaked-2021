@@ -1,0 +1,39 @@
+A
+800
+LIBRARY
+
+REGION_DEFINE ISDG_AUSTRALIA_NSW_SYDNEY
+REGION_RECT 151 -34 151 -34
+REGION ISDG_AUSTRALIA_NSW_SYDNEY
+
+# Modified Black/Yellow/Black taxi line to better reflect Australia
+EXPORT  lib/airport/lines/51_single_taxi_b.lin ISDGLibrary/Lines/taxilines/51_single_taxi_b-aussie.lin
+
+# Export our Qantas Hangar instead of the Delta one
+EXPORT KSEA_Objects/KSEA_objects/Old_Northwest.agp KSEA_Objects/KSEA_objects/Old_Northwest.agp
+
+# So people don't attempt to use these items by accident
+PRIVATE
+
+# Library file built using AutoLibrary
+# Tue Jul 08 21:54:33 EST 2014
+
+# extras
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContA_1.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContA_2.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContA_3.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContA_4.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContB_1.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContB_2.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContB_3.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContB_4.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContC_1.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContC_2.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContC_3.obj
+EXPORT isdg/objects/containers/single.obj ISDGLibrary/objects/containers/ContC_4.obj
+EXPORT isdg/objects/containers/dual.obj ISDGLibrary/objects/containers/ContA_2x2.obj
+EXPORT isdg/objects/containers/dual.obj ISDGLibrary/objects/containers/ContB_2x2.obj
+EXPORT isdg/objects/containers/dual.obj ISDGLibrary/objects/containers/ContC_2x2.obj
+EXPORT isdg/objects/containers/quad.obj ISDGLibrary/objects/containers/ContA_4x1.obj
+EXPORT isdg/objects/containers/quad.obj ISDGLibrary/objects/containers/ContB_4x1.obj
+EXPORT isdg/objects/containers/quad.obj ISDGLibrary/objects/containers/ContC_4x1.obj

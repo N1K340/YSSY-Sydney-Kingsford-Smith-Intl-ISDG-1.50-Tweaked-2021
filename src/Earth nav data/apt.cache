@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<apt sam="true" revision="6" sam_path="D:\Steam\steamapps\common\X-Plane 11\Custom Scenery\YSSY Sydney ISDG 1.5 tweaked\sam.xml">
+	<plugin_config sam="2.2.9" WorldJetways="1.0.4" />
+	<airport name="Sydney Kingsford Smith Intl" icao="YSSY" iata="SYD" elevation="20" latitude="-33.946111111" longitude="151.17722222200001">
+		<startup_location latitude="-33.94320312" longitude="151.18144684999999" heading="164.40000000000001" name="Ramp 121A" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.943345260000001" longitude="151.18103884000001" heading="164.09999999999999" name="Ramp 121B" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.92973422" longitude="151.18269194000001" heading="120.2" name="Dom 65" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.930133240000004" longitude="151.18260040999999" heading="135.19999999999999" name="Dom 66" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.930496099999999" longitude="151.18252486" heading="134.80000000000001" name="Dom 67" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.93085774" longitude="151.18244931000001" heading="136.19999999999999" name="Dom 68" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931168210000003" longitude="151.18277925000001" heading="350.10000000000002" name="Dom 70" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.933872260000001" longitude="151.1697551" heading="130.09999999999999" name="Intl 12 Ramp" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.932574359999997" longitude="151.17661482" heading="90.400000000000006" name="Dom 16B" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.938226579999998" longitude="151.16860098000001" heading="75.5" name="Intl 32" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.940447659999997" longitude="151.16400985000001" heading="41.100000000000001" name="Intl 61" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935548529999998" longitude="151.17979976999999" heading="281.30000000000001" name="Dom B36" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.938917320000002" longitude="151.16631054999999" heading="255.5" name="Intl 53" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931624919999997" longitude="151.17642226000001" heading="115.8" name="Dom A11" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.939294359999998" longitude="151.16965156000001" heading="255.5" name="Intl 37" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934129509999998" longitude="151.17722749000001" heading="99.5" name="Dom B49" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934832210000003" longitude="151.16765377999999" heading="-101.59999999999999" name="Intl 9" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931367989999998" longitude="151.17753087" heading="190.90000000000001" name="Dom A7" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.93574349" longitude="151.16794282999999" heading="239.19999999999999" name="Intl 10" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.928350180000002" longitude="151.17489807999999" heading="80" name="North Stand 85" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934109319999997" longitude="151.18827870000001" heading="188.59999999999999" name="GA 106" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.934068009999997" longitude="151.18805852" heading="191.40000000000001" name="GA 107" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.933749079999998" longitude="151.18940062999999" heading="36.100000000000001" name="GA 118" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.933491439999997" longitude="151.18790963000001" heading="149.19999999999999" name="GA 119 RFDS" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.933712640000003" longitude="151.18784081999999" heading="9.0999999999999996" name="GA 121 RFDS" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.934345409999999" longitude="151.18926185999999" heading="-25.800000000000001" name="GA 122" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.934050399999997" longitude="151.19096819999999" heading="251.5" name="GA 127" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.934354859999999" longitude="151.19020547" heading="-27.600000000000001" name="GA 128" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.933889000000001" longitude="151.190496" heading="-131.09999999999999" name="GA 133" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.933920389999997" longitude="151.19075805" heading="210" name="GA 134" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="-33.929846359999999" longitude="151.16735143" heading="-102.7" name="Cargo 1" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.9359781" longitude="151.18461796" heading="37.200000000000003" name="F16" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.93108333" longitude="151.16787009999999" heading="-101.7" name="Cargo 3" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.937581020000003" longitude="151.16835606999999" heading="75.5" name="30" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.937364909999999" longitude="151.16908900000001" heading="-102.40000000000001" name="31" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.938000899999999" longitude="151.16935197999999" heading="256.5" name="33" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.93885684" longitude="151.16881007999999" heading="74.599999999999994" name="34" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936265509999998" longitude="151.17907747000001" heading="100" name="B39" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.932481950000003" longitude="151.16790750000001" heading="-61.700000000000003" name="Cargo 5" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.938576930000004" longitude="151.16503012000001" heading="71.799999999999997" name="Gate 50" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.939339150000002" longitude="151.16670083" heading="-97.700000000000003" name="Gate 55" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.939638240000001" longitude="151.16421247" heading="122" name="Gate 56" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.940071860000003" longitude="151.16529499999999" heading="-13.9" name="Gate 59" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.94025568" longitude="151.16453168000001" heading="-15.300000000000001" name="Gate 60" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.939954049999997" longitude="151.16398197999999" heading="83.5" name="Gate 63" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.945935540000001" longitude="151.1683687" heading="163.59999999999999" name="Ramp 76" airline_code="" type="gate" width_code="e" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.945580360000001" longitude="151.16987893999999" heading="164" name="Ramp 74" airline_code="" type="gate" width_code="e" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.945355509999999" longitude="151.17080372999999" heading="163.5" name="Ramp 73" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934111889999997" longitude="151.16757910000001" heading="255.5" name="8" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931846970000002" longitude="151.18073451999999" heading="189.19999999999999" name="A1" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931120960000001" longitude="151.17629486999999" heading="163.90000000000001" name="Dom 10" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.933234480000003" longitude="151.17744923000001" heading="316.19999999999999" name="Dom A18" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931887660000001" longitude="151.18021917999999" heading="189.5" name="A2" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931711919999998" longitude="151.17911326999999" heading="189.5" name="A4" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931546599999997" longitude="151.17800832" heading="189.5" name="A6" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.931235780000002" longitude="151.17711607000001" heading="191.40000000000001" name="A8" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934748679999998" longitude="151.17933360999999" heading="99.700000000000003" name="B31" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934768589999997" longitude="151.18015657999999" heading="-79" name="B32" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935064310000001" longitude="151.17994705999999" heading="-80.700000000000003" name="B34" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935780559999998" longitude="151.17913924999999" heading="99.700000000000003" name="B35" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936988069999998" longitude="151.17969583999999" heading="327" name="B44A" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.93660629" longitude="151.17896822" heading="89.599999999999994" name="B41" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.936733930000003" longitude="151.17971688" heading="279.5" name="B42" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.937138339999997" longitude="151.1792624" heading="81.900000000000006" name="B45" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.93635484" longitude="151.17977203999999" heading="-79.599999999999994" name="B40" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934851270000003" longitude="151.17763124999999" heading="279.39999999999998" name="B52" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935155270000003" longitude="151.17704789999999" heading="99.900000000000006" name="B55" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935613189999998" longitude="151.17746811000001" heading="279.69999999999999" name="B56" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935606710000002" longitude="151.17697655000001" heading="99.299999999999997" name="B57" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935952919999998" longitude="151.17744592" heading="-56.899999999999999" name="B58" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935930050000003" longitude="151.17709324" heading="79.900000000000006" name="B59" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936318970000002" longitude="151.18173168999999" heading="224" name="F8" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934956360000001" longitude="151.18125531000001" heading="188.40000000000001" name="F1" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936312739999998" longitude="151.18247349000001" heading="150.19999999999999" name="F11" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936619999999998" longitude="151.18244745000001" heading="127.5" name="F12" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935976719999999" longitude="151.18383585000001" heading="63" name="F14" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936166489999998" longitude="151.18359292" heading="8.5999999999999996" name="F13" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.9360353" longitude="151.18407379999999" heading="25" name="F15" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935293569999999" longitude="151.18118723000001" heading="189.19999999999999" name="F2" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936352030000002" longitude="151.18107588999999" heading="250.80000000000001" name="F5A" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.936573520000003" longitude="151.18131227000001" heading="49.299999999999997" name="F6" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-33.935905669999997" longitude="151.18185241" heading="224" name="F9" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935983579999998" longitude="151.18254691000001" heading="148.59999999999999" name="F10" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.92701744" longitude="151.17476546" heading="80" name="North Stand 83" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935209409999999" longitude="151.18495909000001" heading="44.600000000000001" name="Cargo 90" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935527999999998" longitude="151.185822" heading="4.5999999999999996" name="Cargo 92" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935417260000001" longitude="151.18614991999999" heading="-13.199999999999999" name="Cargo 93B" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935364180000001" longitude="151.18661143" heading="-7.2999999999999998" name="Cargo 94" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.935157869999998" longitude="151.18784513" heading="254.19999999999999" name="Cargo 96" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.934883419999998" longitude="151.18809640000001" heading="319.30000000000001" name="Cargo 96C" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-33.93716989" longitude="151.17925715000001" heading="57.399999999999999" name="B45A" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+	</airport>
+</apt>
